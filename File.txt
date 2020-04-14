@@ -1,7 +1,9 @@
 welcome to git
 
 
+
 change--- to fix bug1
 
-
 change --to change exisiting functionality
+
+change--- to fix bug2
